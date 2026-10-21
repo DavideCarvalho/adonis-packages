@@ -1,4 +1,5 @@
-import { basename } from 'node:path'
+import { readdir } from 'node:fs/promises'
+import { basename, join } from 'node:path'
 import slugify from '@sindresorhus/slugify'
 import { args, BaseCommand, flags } from '@adonisjs/core/ace'
 import type { CommandOptions } from '@adonisjs/core/types/ace'
@@ -6,6 +7,7 @@ import type { CommandOptions } from '@adonisjs/core/types/ace'
 import type { PackageManifest } from '#types/main'
 import {
   compatibilityFromCoreRanges,
+  contentFolder,
   coreRangesFromNpmDocument,
   githubRepoFromUrl,
   mergeCompatibility,
@@ -136,6 +138,13 @@ export default class ValidatePackages extends BaseCommand {
     for (const { file, problems: fileProblems } of results) {
       if (duplicates.has(file)) fileProblems.push(`Same name as ${duplicates.get(file)}`)
       if (fileProblems.length) problems.set(file, fileProblems)
+    }
+
+    /**
+     * Files without the .yml extension are silently skipped by the build
+     */
+    for (const file of await readdir(join(contentFolder, 'packages'))) {
+      if (!file.endsWith('.yml')) problems.set(file, ['Package files must use the .yml extension'])
     }
 
     for (const [file, fileProblems] of problems) {

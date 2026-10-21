@@ -4,7 +4,7 @@ category: Extensions
 type: 3rd-party
 npm: '@outloud/adonis-scheduler'
 repo: https://github.com/madebyoutloud/adonis-scheduler
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0
 keywords:
   - cron
   - job
