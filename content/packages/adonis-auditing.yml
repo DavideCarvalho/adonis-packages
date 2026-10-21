@@ -1,10 +1,8 @@
 name: adonis-auditing
-category: Database
-npm: '@stouder-io/adonis-auditing'
-repo: StouderIO/adonis-auditing
 description: Audit your Lucid models with ease.
-github: https://github.com/StouderIO/adonis-auditing
-website: https://adonis-auditing.stouder.io/
+category: Database
 type: 3rd-party
-compatibility:
-  adonis: ^6.0.0
+npm: '@stouder-io/adonis-auditing'
+repo: https://github.com/StouderIO/adonis-auditing
+website: https://adonis-auditing.stouder.io/
+compatibility: ^6.0.0

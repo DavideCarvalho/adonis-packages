@@ -1,15 +1,7 @@
 name: table-driven-html-reporter
 description: Japa reporter that generates an html file with all tests
-repo: guntribam/table-driven-html-reporter
-npm: table-driven-html-reporter
-icon: ''
-github: https://github.com/guntribam/table-driven-html-reporter
-website: https://github.com/guntribam/table-driven-html-reporter
-learn_more: ''
 category: Testing
 type: 3rd-party
-maintainers:
-  - name: guntribam
-    github: guntribam
-compatibility:
-  adonis: ^5.0.0
+npm: table-driven-html-reporter
+repo: https://github.com/guntribam/table-driven-html-reporter
+compatibility: ^5.0.0
