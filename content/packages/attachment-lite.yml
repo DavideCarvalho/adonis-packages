@@ -1,8 +1,0 @@
-name: attachment-lite
-description: Turn any field on your Lucid model to an attachment data type
-category: Database
-type: official
-npm: '@adonisjs/attachment-lite'
-repo: https://github.com/adonisjs/attachment-lite
-icon: adonis.png
-compatibility: ^5.0.0

@@ -1,7 +1,0 @@
-name: form-request
-description: Use dedicated classes to authorize and validate requests
-category: Authorization
-type: 3rd-party
-npm: '@melchyore/adonis-form-request'
-repo: https://github.com/Melchyore/adonis-form-request
-compatibility: ^5.0.0

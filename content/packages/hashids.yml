@@ -1,7 +1,0 @@
-name: hashids
-description: Generate YouTube-like IDs for AdonisJS Lucid models
-category: Database
-type: 3rd-party
-npm: '@fcoded/adonis-hashids'
-repo: https://github.com/eokwukwe/adonis-hashids
-compatibility: ^5.0.0

@@ -1,7 +1,0 @@
-name: redis-rpc
-description: Simple RPC Provider for Adonis 5, based on Redis pub/sub transport
-category: Communication
-type: 3rd-party
-npm: adonis5-redis-rpc
-repo: https://github.com/reg2005/adonis5-redis-rpc
-compatibility: ^5.0.0

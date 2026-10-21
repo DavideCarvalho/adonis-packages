@@ -1,7 +1,0 @@
-name: table-driven-tests
-description: Japa plugin to use markdown tables as input test data
-category: Testing
-type: 3rd-party
-npm: table-driven-tests
-repo: https://github.com/guntribam/table-driven-tests
-compatibility: ^5.0.0

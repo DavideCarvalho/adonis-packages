@@ -1,7 +1,0 @@
-name: nats
-description: Scale your Adonis 5 application to infinity with microservices based on classes (with code completion from client side!) and NATS transport
-category: Communication
-type: 3rd-party
-npm: adonis5-nats
-repo: https://github.com/reg2005/adonis5-nats
-compatibility: ^5.0.0

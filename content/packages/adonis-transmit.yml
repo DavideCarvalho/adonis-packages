@@ -1,7 +1,0 @@
-name: transmit-v5
-description: SSE provider for AdonisJS 5
-category: Extensions
-type: 3rd-party
-npm: '@brighthustle/adonis-transmit'
-repo: https://github.com/Bright-Hustle/adonis-transmit
-compatibility: ^5.0.0

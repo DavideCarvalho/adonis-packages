@@ -1,7 +1,0 @@
-name: table-driven-html-reporter
-description: Japa reporter that generates an html file with all tests
-category: Testing
-type: 3rd-party
-npm: table-driven-html-reporter
-repo: https://github.com/guntribam/table-driven-html-reporter
-compatibility: ^5.0.0

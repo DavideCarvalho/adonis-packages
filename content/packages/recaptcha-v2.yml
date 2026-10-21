@@ -1,8 +1,0 @@
-name: recaptcha-v2
-description: Google reCAPTCHA v2 for AdonisJS
-category: Security
-type: 3rd-party
-npm: adonis-recaptcha2
-repo: https://github.com/lookinlab/adonis-recaptcha2
-icon: recaptcha.png
-compatibility: ^5.0.0

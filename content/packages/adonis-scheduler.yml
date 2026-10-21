@@ -1,7 +1,0 @@
-name: adonis-scheduler
-description: Unopinionated scheduler for Adonis
-category: Extensions
-type: 3rd-party
-npm: '@stouder-io/adonis-scheduler'
-repo: https://github.com/Xstoudi/adonis-scheduler
-compatibility: ^5.0.0

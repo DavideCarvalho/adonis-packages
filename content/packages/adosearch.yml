@@ -1,7 +1,0 @@
-name: adosearch
-description: typed, deeply nested database search for adonis.js applications
-category: Database
-type: 3rd-party
-npm: adosearch
-repo: https://github.com/Obapelumi/adosearch
-compatibility: ^5.0.0

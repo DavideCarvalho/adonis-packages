@@ -1,7 +1,0 @@
-name: class-validator
-description: Class validator for adonis framework
-category: Extensions
-type: 3rd-party
-npm: adonis-class-validator
-repo: https://github.com/tnkemdilim/adonis-class-validator
-compatibility: ^5.0.0

@@ -1,7 +1,0 @@
-name: jwt-auth
-description: Add JWT authentication to Adonisjs v5
-category: Authentication
-type: 3rd-party
-npm: adonis5-jwt
-repo: https://github.com/maxgalbu/adonis5-jwt
-compatibility: ^5.0.0

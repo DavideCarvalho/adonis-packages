@@ -1,8 +1,0 @@
-name: hcaptcha
-description: A middleware for AdonisJS to keep your web applications secure from bots using hCaptcha
-category: Security
-type: 3rd-party
-npm: adonisjs-hcaptcha
-repo: https://github.com/NerdyLuffy/adonisjs-hcaptcha
-icon: hcaptcha.png
-compatibility: ^5.0.0

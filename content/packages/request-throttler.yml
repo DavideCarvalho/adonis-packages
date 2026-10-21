@@ -1,7 +1,0 @@
-name: request-throttler
-description: Request throttler provider for AdonisJS 5
-category: Security
-type: 3rd-party
-npm: adonis-request-throttler
-repo: https://github.com/reg2005/adonis-request-throttler
-compatibility: ^5.0.0

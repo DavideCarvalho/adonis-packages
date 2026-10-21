@@ -1,8 +1,0 @@
-name: adonis5-audit
-description: Utility to easily audit models in AdonisJS
-category: Database
-type: 3rd-party
-npm: adonis5-audit
-repo: https://github.com/ks-labs/adonis5-audit
-icon: audit.png
-compatibility: ^5.0.0

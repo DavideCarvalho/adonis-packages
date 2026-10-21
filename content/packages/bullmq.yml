@@ -1,8 +1,0 @@
-name: bullmq
-description: Adonis 5 bullmq provider
-category: Extensions
-type: 3rd-party
-npm: adonis5-bullmq
-repo: https://github.com/reg2005/adonis5-bullmq
-icon: bullmq.png
-compatibility: ^5.0.0

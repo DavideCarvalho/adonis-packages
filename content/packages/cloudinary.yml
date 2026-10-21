@@ -1,8 +1,0 @@
-name: cloudinary
-description: A Cloudinary Wrapper for Adonis 5
-category: Storage
-type: 3rd-party
-npm: adonisjs-cloudinary
-repo: https://github.com/liam-edwards/adonisjs-cloudinary
-icon: cloudinary.png
-compatibility: ^5.0.0

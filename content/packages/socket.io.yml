@@ -1,8 +1,0 @@
-name: socket.io
-description: WebSocket provider using Socket.IO
-category: Extensions
-type: 3rd-party
-npm: '@ruby184/adonis-socket.io'
-repo: https://github.com/ruby184/adonis-socket.io
-icon: socketio.png
-compatibility: ^5.0.0

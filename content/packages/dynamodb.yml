@@ -1,8 +1,0 @@
-name: dynamodb
-description: A DynamoDB (Dyngoose) wrapper for AdonisJS
-category: Database
-type: 3rd-party
-npm: adonis-dynamodb
-repo: https://github.com/Melchyore/adonis-dynamodb/tree/master
-icon: dynamodb.png
-compatibility: ^5.0.0

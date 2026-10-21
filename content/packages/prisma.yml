@@ -1,8 +1,0 @@
-name: prisma
-description: Prismxa Provider for AdonisJS
-category: Database
-type: 3rd-party
-npm: '@wahyubucil/adonis-prisma'
-repo: https://github.com/wahyubucil/adonis-prisma
-icon: prisma.png
-compatibility: ^5.0.0
