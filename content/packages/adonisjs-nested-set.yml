@@ -4,4 +4,4 @@ category: Database
 type: 3rd-party
 npm: adonisjs-nested-set
 repo: https://github.com/Redleks/adonisjs-nested-set/tree/main
-compatibility: ^5.0.0
+compatibility: ^5.0.0 || ^6.0.0

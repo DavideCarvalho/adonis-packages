@@ -4,4 +4,4 @@ category: Authorization
 type: 3rd-party
 npm: '@holoyan/adonisjs-permissions'
 repo: https://github.com/holoyan/adonisjs-permissions
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

@@ -5,4 +5,4 @@ type: official
 npm: '@adonisjs/vite'
 repo: https://github.com/adonisjs/vite/tree/main
 icon: vite.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

@@ -5,7 +5,7 @@ type: 3rd-party
 npm: '@nemoventures/adonis-jobs'
 repo: https://github.com/nemoengineering/adonis-jobs
 icon: redis.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0
 keywords:
   - queue
   - bullmq

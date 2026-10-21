@@ -6,4 +6,4 @@ npm: '@foadonis/maintenance'
 repo: https://github.com/FriendsOfAdonis/FriendsOfAdonis/tree/main/packages/maintenance
 website: https://friendsofadonis.com/docs/maintenance
 icon: foadonis.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

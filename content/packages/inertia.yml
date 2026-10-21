@@ -5,4 +5,4 @@ type: official
 npm: '@adonisjs/inertia'
 repo: https://github.com/adonisjs/inertia/tree/main
 icon: inertia.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

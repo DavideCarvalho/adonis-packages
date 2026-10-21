@@ -5,4 +5,4 @@ type: official
 npm: '@adonisjs/bouncer'
 repo: https://github.com/adonisjs/bouncer
 icon: adonis.png
-compatibility: ^5.0.0 || ^6.0.0
+compatibility: ^5.0.0 || ^6.0.0 || ^7.0.0

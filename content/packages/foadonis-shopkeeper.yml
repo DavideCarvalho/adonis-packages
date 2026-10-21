@@ -6,4 +6,4 @@ npm: '@foadonis/shopkeeper'
 repo: https://github.com/FriendsOfAdonis/FriendsOfAdonis/tree/main/packages/shopkeeper
 website: https://friendsofadonis.com/docs/shopkeeper
 icon: foadonis.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

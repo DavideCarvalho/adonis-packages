@@ -4,4 +4,4 @@ category: Storage
 type: official
 npm: '@adonisjs/cache'
 repo: https://github.com/adonisjs/cache/tree/1.x
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

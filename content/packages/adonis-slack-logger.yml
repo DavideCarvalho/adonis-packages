@@ -5,4 +5,4 @@ type: 3rd-party
 npm: '@adityadarma/adonis-logger-slack'
 repo: https://github.com/adityadarma/adonis-logger-slack
 icon: slack.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

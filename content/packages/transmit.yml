@@ -5,4 +5,4 @@ type: official
 npm: '@adonisjs/transmit'
 repo: https://github.com/adonisjs/transmit/tree/main
 icon: adonis.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

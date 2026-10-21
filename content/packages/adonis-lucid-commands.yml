@@ -4,4 +4,4 @@ category: Database
 type: 3rd-party
 npm: '@jrmc/adonis-lucid-commands'
 repo: https://github.com/batosai/adonis-lucid-commands
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

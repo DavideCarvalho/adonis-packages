@@ -6,4 +6,4 @@ npm: '@foadonis/graphql'
 repo: https://github.com/FriendsOfAdonis/FriendsOfAdonis/tree/main/packages/graphql
 website: https://friendsofadonis.com/docs/graphql
 icon: foadonis.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

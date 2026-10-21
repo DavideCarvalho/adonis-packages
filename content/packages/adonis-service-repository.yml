@@ -5,4 +5,4 @@ type: 3rd-party
 npm: '@adityadarma/adonis-service-repository'
 repo: https://github.com/adityadarma/adonis-service-repository
 icon: datatables.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

@@ -5,4 +5,4 @@ type: 3rd-party
 npm: '@tpointurier/ally-microsoft'
 repo: https://github.com/ThibaultPointurier/ally-microsoft
 icon: microsoft.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

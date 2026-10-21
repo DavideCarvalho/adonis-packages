@@ -4,4 +4,4 @@ category: Extensions
 type: 3rd-party
 npm: '@izzyjs/route'
 repo: https://github.com/izzyjs/route/tree/main
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

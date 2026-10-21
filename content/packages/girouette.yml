@@ -5,4 +5,4 @@ type: 3rd-party
 npm: '@adonisjs-community/girouette'
 repo: https://github.com/adonisjs-community/girouette
 icon: girouette.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

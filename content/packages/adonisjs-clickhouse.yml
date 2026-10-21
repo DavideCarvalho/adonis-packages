@@ -5,4 +5,4 @@ type: 3rd-party
 npm: adonisjs-clickhouse
 repo: https://github.com/flozdra/adonisjs-clickhouse
 icon: adonisjs-clickhouse.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

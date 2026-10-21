@@ -6,4 +6,4 @@ npm: '@foadonis/openapi'
 repo: https://github.com/FriendsOfAdonis/FriendsOfAdonis/tree/main/packages/openapi
 website: https://friendsofadonis.com/docs/openapi
 icon: foadonis.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

@@ -4,4 +4,4 @@ category: Extensions
 type: official
 npm: '@adonisjs/i18n'
 repo: https://github.com/adonisjs/i18n
-compatibility: ^5.0.0 || ^6.0.0
+compatibility: ^5.0.0 || ^6.0.0 || ^7.0.0

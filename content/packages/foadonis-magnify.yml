@@ -6,4 +6,4 @@ npm: '@foadonis/magnify'
 repo: https://github.com/FriendsOfAdonis/FriendsOfAdonis/tree/main/packages/magnify
 website: https://friendsofadonis.com/docs/magnify
 icon: foadonis.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

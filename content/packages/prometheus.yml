@@ -5,4 +5,4 @@ type: 3rd-party
 npm: '@julr/adonisjs-prometheus'
 repo: https://github.com/Julien-R44/adonisjs-prometheus
 icon: prometheus.png
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

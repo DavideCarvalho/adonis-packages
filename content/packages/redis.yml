@@ -5,4 +5,4 @@ type: official
 npm: '@adonisjs/redis'
 repo: https://github.com/adonisjs/redis
 icon: redis.png
-compatibility: ^5.0.0 || ^6.0.0
+compatibility: ^5.0.0 || ^6.0.0 || ^7.0.0

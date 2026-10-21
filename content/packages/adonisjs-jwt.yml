@@ -4,4 +4,4 @@ category: Authentication
 type: 3rd-party
 npm: '@maximemrf/adonisjs-jwt'
 repo: https://github.com/MaximeMRF/adonisjs-jwt/tree/main
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

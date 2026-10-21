@@ -4,4 +4,4 @@ category: Monitoring
 type: 3rd-party
 npm: '@holoyan/adonisjs-activitylog'
 repo: https://github.com/holoyan/adonisjs-activitylog
-compatibility: ^6.0.0
+compatibility: ^6.0.0 || ^7.0.0

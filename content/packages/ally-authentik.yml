@@ -5,4 +5,4 @@ type: 3rd-party
 npm: adonis-ally-authentik
 repo: https://github.com/alfianazizi/ally-driver-authentik
 icon: goauthentik.png
-compatibility: ^5.0.0
+compatibility: ^5.0.0 || ^6.0.0
